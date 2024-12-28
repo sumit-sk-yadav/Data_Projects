@@ -1,7 +1,7 @@
 # Data Science Projects
 --- 
 ## Overview
-Data analysis and machine learning projects
+My foray into the world of Data analytics and Machine Learning
 ## List of projects and Models
 1. Depression Among Students (Binary Classification)
 2. Student Performance ( Linear Regression )
