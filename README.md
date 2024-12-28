@@ -1,4 +1,5 @@
-# Data_Projects
+# Data Science Projects
+--- 
 ## Overview
 Data analysis and machine learning projects
 ## List of projects and Models
